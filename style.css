@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-color-container {
+    background-color: #191a1d;
+    height: 150vh;
+}
+
+#navItem1 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem5 {
+    color: white;
+    font-family: "Roboto";
+}
+
+.symbol-f {
+    text-align: center;
+    font-size: 24px;
+    font-family: "Roboto";
+    font-weight: 700;
+    border-width: 2px;
+    border-color: #4b6cc1;
+    border-style: solid;
+    font-size: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.coder-image {
+    height: 250px;
+    width: 250px;
+}
+
+.heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+}
+
+.paragraph {
+    font-family: "Roboto";
+    color: #9aa5b1;
+    font-size: 26px;
+}
+
+.custom-button {
+    color: white;
+    background-color: #4b6cc1;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+}
+
+.person-name {
+    color: #4b6cc1;
+}
+
+
+.bg-container {
+    background-color: #323f4b;
+}
+
+.facts-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.about-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 38px;
+    font-weight: bold;
+}
+
+.portfolio-image {
+    width: 100%;
+}
+
+.portfolio-paragraph {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.bg-skill {
+    background-color: #1f2933;
+    height: 100vh;
+    width: 100%;
+}
+
+.skill-image-card {
+    border-radius: 8px;
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.skill-image {
+    height: 70px;
+    width: 70px;
+}
+
+.html-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: px;
+}
+
+
+.bg-container {
+    background-color: #3e4c59;
+}
+
+.portfolio-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.project-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.bg-hotel-card {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.hotel-image {
+    height: 45vh;
+    width: 100%;
+}
+
+.web-heading {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.meal-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+}
+
+.meal-paragraph {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.page-item-link {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: bold;
+}
